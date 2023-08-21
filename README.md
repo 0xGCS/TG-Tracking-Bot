@@ -5,10 +5,10 @@ If you have any questions feel free to contact me on Telegram:
 https://t.me/OxGCS
 
 # Commands
-/start display the welcome message and see instructions on how to use the bot.
-/add add a new wallet to monitor. The wallet address must be in the correct format (starting with '0x' for the wallets and 'ETH', 'BNB', 'ARB', or 'OP' for the blockchain). Inputs without the correct format will be prompted by the bot to correct it.
-/remove remove a wallet from your list. You must provide the wallet address in the correct format.
-/list shows the wallets currently being tracked
+- /start display the welcome message and see instructions on how to use the bot.
+- /add add a new wallet to monitor. The wallet address must be in the correct format (starting with '0x' for the wallets and 'ETH', 'BNB', 'ARB', or 'OP' for the blockchain). Inputs without the correct format will be prompted by the bot to correct it.
+- /remove remove a wallet from your list. You must provide the wallet address in the correct format.
+- /list shows the wallets currently being tracked
 
 # Requirements
 To run the bot, you'll need to have Python 3.6 or later installed on your system, along with the following Python libraries:
